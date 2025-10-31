@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Alex 👋  
+🎓 Computer Science & Math @ RPI  
+💻 Focus: Algorithms, Systems, Networks & Security
+🧠 Interests: Cybersecurity, Computer Hardware, and AI Research  
 
-<!--
-**TheByteGuy/TheByteGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Projects & Highlights
+- 🧩 [Presentation Assistant](https://presentationassistants.com/) -> PHP/MySQL web system for group management  
+- 🧬 [Critter Capture](https://github.com/TheByteGuy/HackRPI2024) ->   AI powered wildlife identification and gamified exploration platform
+- 🖥️ [Simple Connect 4 Ai](https://github.com/TheByteGuy/Connect-4-M-M-Final) -> Simple Connect 4 AI using a Minimax algorithm with alpha beta.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Tech Stack
+**Languages:** C++, C#, PHP, Python, JavaScript, CSS.
+**Tools:** Docker, Proxmox, MySQL, Git  
+**Interests:** Algorithms, AI/ML, Systems, Mathematical Modeling  
+
+---
+
+### 🌱 Current Goals
+- Work on research in Cybersecurity and AI influences
+- Improve performance on low-level system projects  
+- Build a better portfolio at [cavoli.tech](https://cavoli.tech)
+
+---
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/alexander-cavoli-845b96358/) • [Website](https://cavoli.tech)
