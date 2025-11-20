@@ -6,8 +6,9 @@
 ---
 
 ### 🚀 Projects & Highlights
-- 🧩 [Presentation Assistant](https://presentationassistants.com/) -> PHP/MySQL web system for group management  
-- 🧬 [Critter Capture](https://github.com/TheByteGuy/HackRPI2024) ->   AI powered wildlife identification and gamified exploration platform  
+- 📊 [ByteBite](https://github.com/TheByteGuy/bytebite) -> NodeJS/CSS website for campus dinning options with filtering options.  
+- 🧩 [Presentation Assistant](https://presentationassistants.com/) -> PHP/MySQL web system for group management.  
+- 🧬 [Critter Capture](https://github.com/TheByteGuy/HackRPI2024) ->   AI powered wildlife identification and gamified exploration platform.  
 - 🖥️ [Simple Connect 4 Ai](https://github.com/TheByteGuy/Connect-4-M-M-Final) -> Simple Connect 4 AI using a Minimax algorithm with alpha beta.  
 
 ---
