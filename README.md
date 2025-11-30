@@ -10,6 +10,7 @@
 - 🧩 [Presentation Assistant](https://presentationassistants.com/) -> PHP/MySQL web system for group management.  
 - 🧬 [Critter Capture](https://github.com/TheByteGuy/HackRPI2024) ->   AI powered wildlife identification and gamified exploration platform.  
 - 🖥️ [Simple Connect 4 Ai](https://github.com/TheByteGuy/Connect-4-M-M-Final) -> Simple Connect 4 AI using a Minimax algorithm with alpha beta.  
+- 🖥️ [Personal Website](https://cavoli.tech) -> Created a personal website to put all contacts in one place.  
 
 ---
 
